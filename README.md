@@ -1,8 +1,8 @@
 # Backend-Express-To-Do-List
 Backend ToDoList using Express!
 
-![demo](https://github.com/anilpiparaiya/Express-To-Do-List/blob/main/demo.gif
-)
+Demo:- https://github.com/anilpiparaiya/Backend-Express-To-Do-List/blob/main/demo.gif
+
 
 Dependencies:
 1) Express
